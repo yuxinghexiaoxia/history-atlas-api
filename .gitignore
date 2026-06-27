@@ -6,5 +6,6 @@ dist/
 *.db
 *.sqlite
 *.sqlite3
+!history-atlas.db
 ._*
 .history-atlas.db
